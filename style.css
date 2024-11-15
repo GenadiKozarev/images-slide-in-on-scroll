@@ -24,6 +24,7 @@ h1 {
 .wh-400 {
     width: 400px;
     height: 400px;
+    border-radius: 3%;
 }
 
 .site-wrap {
