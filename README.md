@@ -2,7 +2,7 @@
 
 ### Slide-In effect of images when the user's scrolling up and down
 
-Live:
+Live: https://genadikozarev.github.io/images-slide-in-on-scroll/
 
 Preview:
 
