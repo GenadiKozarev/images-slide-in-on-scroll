@@ -1,10 +1,12 @@
 # images-slide-in-on-scroll
 
-### Slide in effect of images when user's scrolling down the page
+### Slide-In effect of images when the user's scrolling up and down
 
 Live:
 
 Preview:
+
+https://github.com/user-attachments/assets/82626654-1f3d-4ff6-bdcf-1bbba7339b0e
 
 Keywords:
 - debounce()
